@@ -1,3 +1,5 @@
 [user]
 	name = subin
 	email = bagsubin565@gmail.com
+[credential]
+	helper = store
