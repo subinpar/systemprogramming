@@ -1,0 +1,38 @@
+{
+  "Version": "24.04",
+  "OEM": {
+    "Vendor": "QEMU",
+    "Product": "QEMU Virtual Machine",
+    "Family": ""
+  },
+  "BIOS": {
+    "Vendor": "EFI Development Kit II / OVMF",
+    "Version": "0.0.0"
+  },
+  "Arch": "arm64",
+  "RAM": 4,
+  "Disks": [
+    68.7
+  ],
+  "Partitions": [
+    31.3,
+    2,
+    1.1
+  ],
+  "Screens": [
+    {
+      "Size": "320mmx200mm",
+      "Resolution": "1280x800",
+      "Frequency": "74.93"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "Etc/UTC"
+}
