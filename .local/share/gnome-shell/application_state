@@ -2,9 +2,10 @@
 <application-state>
   <context id="">
     <application id="gnome-language-selector.desktop" score="15" last-seen="1760520491"/>
+    <application id="org.gnome.Nautilus.desktop" score="13" last-seen="1760541996"/>
     <application id="gnome-initial-setup.desktop" score="6" last-seen="1760361816"/>
-    <application id="org.gnome.gedit.desktop" score="173" last-seen="1760521014"/>
+    <application id="org.gnome.gedit.desktop" score="583" last-seen="1760543018"/>
     <application id="update-manager.desktop" score="40" last-seen="1760361961"/>
-    <application id="org.gnome.Terminal.desktop" score="327" last-seen="1760521014"/>
+    <application id="org.gnome.Terminal.desktop" score="3015" last-seen="1760543018"/>
   </context>
 </application-state>

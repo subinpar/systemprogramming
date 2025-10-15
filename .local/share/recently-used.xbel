@@ -33,4 +33,44 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/subin/line.c" added="2025-10-15T09:59:16.120277Z" modified="2025-10-15T10:03:10.263025Z" visited="2025-10-15T09:59:16.120277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-15T10:03:10.263024Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/subin/fprint.c" added="2025-10-15T14:33:20.574659Z" modified="2025-10-15T15:42:05.656175Z" visited="2025-10-15T14:33:20.574659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-15T15:42:05.656175Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/subin/student.h" added="2025-10-15T14:35:56.160062Z" modified="2025-10-15T15:44:32.140306Z" visited="2025-10-15T14:35:56.160062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-15T15:44:32.140305Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/subin/fscan.c" added="2025-10-15T14:46:52.428601Z" modified="2025-10-15T15:40:43.303405Z" visited="2025-10-15T14:46:52.428601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-15T15:40:43.303405Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
