@@ -1,2 +1,11 @@
-.git-credentials
-.git-credentials.swp
+.local/
+.config/
+.cache/
+.DS_Store
+
+./vscode/
+.vscode/
+.idea/
+*.o
+*.out
+a.out
