@@ -1,17 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 
-#define FILE_PATH "books.txt"
-#define LINE_MAX 512
-
 int main(void){
-	FILE *fp=fopen(FILE_PATH, "r");
+	FILE *fp=fopen("books.txt", "r");
 	if(fp==NULL){
-		perror(FILE_PATH);
+		perror("books.txt");
 		return 1;
 	}
 	
-	char line[LINE_MAX];
+	char line[200];
 	int idx=1;
 	
 	puts("=== Book List ===");
