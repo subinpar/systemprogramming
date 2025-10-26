@@ -25,4 +25,4 @@ int main(void){
 	}
 	fclose(fp);
 	return 0;
-}			
+}
